@@ -53,3 +53,11 @@ a:visited {
   top: 30px;
   right: 30px;
 }
+#score1 {
+  position: absolute;
+  color: white;
+  font-size: 3em;
+  font-weight: bold;
+  top: 98px;
+  right: 30px;
+}
